@@ -123,7 +123,7 @@ h1,h4 {
     visibility: hidden;
     width: 0;
     z-index: 1500;
-    transition: all 0.5s);
+    transition: all 0.5s;
 }
 
 .nav_link {
