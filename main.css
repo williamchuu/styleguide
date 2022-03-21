@@ -8,7 +8,7 @@
 body {
     font-family: 'Rubik', sans-serif;
     background-color: #F2F0EB;
-    color: #33393E;
+    color: #333333;
     line-height: 1.5;
     width: 100%;
     height: 100%;
@@ -16,7 +16,7 @@ body {
 
 a{
     text-decoration: none;
-    color:#33393E;
+    color:#333333;
 }
 
 /*Navigation*/
@@ -123,7 +123,7 @@ h1,h4 {
 .nav_link {
     display: inline-block;
     font-size: 20px;
-    color: #6D6E71;
+    color: #4D4E52;
     padding: 20px;
     text-transform: uppercase;
     font-family: 'Vollkorn', sans-serif;
@@ -174,7 +174,7 @@ h1,h4 {
 /*Content*/
 
 .home_content{
-    color: #6D6E71;
+    color: #4D4E52;
     position: absolute;
     width: 238px;
     height: 147px;
@@ -196,7 +196,7 @@ h1,h4 {
     font-weight: 500;
     font-size: 22px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 /*Scroll*/
@@ -226,7 +226,7 @@ h1,h4 {
     left: 30px;
     font-size: 20px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 .home_infor {
@@ -238,7 +238,7 @@ h1,h4 {
     font-style: normal;
     font-size: 18px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 /*Netx page*/
@@ -256,7 +256,7 @@ h1,h4 {
 
 .text_link{
     text-decoration: none;
-    color: #33393E;
+    color: #333333;
     font-size: 22px;
     cursor: pointer;
 }
@@ -288,7 +288,7 @@ h1,h4 {
     position: absolute;
     bottom: -850px;
     font-size: 22px;
-    color: #6D6E71;
+    color: #4D4E52;
     line-height: 140.62%;;
 }
 
@@ -299,7 +299,7 @@ h1,h4 {
     bottom: -890px;
     font-size: 18px;
     line-height: 140.62%;
-    color: #6D6E71;
+    color: #4D4E52;
     left: 50%;
     right: 50%;
 }
@@ -315,7 +315,7 @@ h1,h4 {
     font-weight: 500;
     font-size: 18px;
     line-height: 140.62%;  
-    color: #6D6E71;
+    color: #4D4E52;
     
       
 }
@@ -329,7 +329,7 @@ h1,h4 {
     padding-top: 55px;
     font-size: 20px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 .par{
@@ -344,7 +344,7 @@ h1,h4 {
     height: 28px;
     margin-left: 30px; 
     font-size: 20px;
-    color: #33393E;
+    color: #333333;
     line-height: 46px;
     font-family: 'Vollkorn', sans-serif;;
 }
@@ -376,7 +376,7 @@ h1,h4 {
     margin-top: 40px;
     margin-bottom: 40px;
     font-size: 20px;
-    color: #33393E;
+    color: #333333;
     line-height: 46px;
     font-family: 'Vollkorn', sans-serif;;
 }
@@ -429,7 +429,7 @@ h1,h4 {
     margin-top: 30px;
     margin-bottom: 40px;
     font-size: 20px;
-    color: #33393E;
+    color: #333333;
     line-height: 46px;
     font-family: 'Vollkorn', sans-serif;
 }
@@ -530,7 +530,7 @@ h1,h4 {
     margin-top: 30px;
     margin-bottom: 40px;
     font-size: 20px;
-    color: #33393E;
+    color: #333333;
     line-height: 46px;
     font-family: 'Vollkorn', sans-serif;
 }
@@ -573,7 +573,7 @@ h1,h4 {
 .logo_text_link{
     margin-bottom: 10px;
     text-decoration: none;
-    color: #33393E;
+    color: #333333;
     font-size: 22px;
     cursor: pointer;
     font-family: "vollkorn", sans-serif;
@@ -589,12 +589,12 @@ h1,h4 {
 .logo_footer {
     margin-top: 20px;
     text-align: center;
-    color: #6D6E71;
+    color: #4D4E52;
 }
 .type_footer {
     margin-top: 2150px;
     text-align: center;
-    color: #6D6E71;
+    color: #4D4E52;
 }
 
 .logo_name{
@@ -614,7 +614,7 @@ h1,h4 {
     padding-top: 55px;
     font-size: 20px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 .brand_color_topline {
@@ -639,7 +639,7 @@ h1,h4 {
     font-family: 'PT Sans', sans-serif;
     margin-top: -70px;
     margin-left: 100px;
-    color: #6D6E71;
+    color: #4D4E52;
 }
 
 .brand_color{
@@ -647,7 +647,7 @@ h1,h4 {
     height: 28px;
     margin-left: 30px; 
     font-size: 20px;
-    color: #33393E;
+    color: #333333;
     line-height: 46px;
     font-family: 'Vollkorn', sans-serif;;
 }
@@ -689,7 +689,7 @@ h1,h4 {
     height: 28px;
     margin-left: 30px; 
     font-size: 20px;
-    color: #33393E;
+    color: #333333;
     line-height: 46px;
     font-family: 'Vollkorn', sans-serif;;
 }
@@ -739,7 +739,7 @@ h1,h4 {
 .color_text_link{
     margin-bottom: 10px;
     text-decoration: none;
-    color: #33393E;
+    color: #333333;
     font-size: 22px;
     cursor: pointer;
     font-family: "vollkorn", sans-serif;
@@ -759,7 +759,7 @@ h1,h4 {
 
 .footer {
     text-align: center;
-    color: #6D6E71;
+    color: #4D4E52;
 }
 
 /*---------------------------Typography----------------------------*
@@ -774,7 +774,7 @@ h1,h4 {
     top: 170px;
     font-size: 20px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 .typo_infor {
@@ -785,7 +785,7 @@ h1,h4 {
     top: 240px;
     font-size: 18px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 .typo_line{
@@ -805,7 +805,7 @@ h1,h4 {
     top: 485px;
     font-size: 20px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 .typo_line_1{
@@ -827,7 +827,7 @@ h1,h4 {
     top: 570px;
     font-size: 18px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 .typeface1{
@@ -844,7 +844,7 @@ h1,h4 {
     height: 0px;
     left: 55px;
     top: 756px;
-    border: 1px solid #33393E;
+    border: 1px solid #333333;
 }
 
 .typeface2{
@@ -917,7 +917,7 @@ h1,h4 {
     height: 0px;
     left: 345px;
     top: 756px;
-    border: 1px solid #33393E;
+    border: 1px solid #333333;
 }
 
 #s1{
@@ -1042,7 +1042,7 @@ h1,h4 {
     height: 0px;
     left: 800px;
     top: 756px;
-    border: 1px solid #33393E;
+    border: 1px solid #333333;
 }
 
 .line_height2{
@@ -1091,7 +1091,7 @@ h1,h4 {
     height: 0px;
     left: 55px;
     top: 1207px;
-    border: 1px solid #33393E;
+    border: 1px solid #333333;
 }
 
 .color{
@@ -1104,7 +1104,7 @@ h1,h4 {
     position: absolute;
     left: 55px;
     top: 1226px;
-    background: #33393E;
+    background: #333333;
 }
 
 .color_text1{
@@ -1130,7 +1130,7 @@ h1,h4 {
     position: absolute;
     left: 548px;
     top: 1226px;
-    background: #6D6E71;
+    background: #4D4E52;
 }
 
 .color_text3{
@@ -1168,7 +1168,7 @@ h1,h4 {
     top: 1444px;
     font-size: 20px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 .rubik_line_1{
@@ -1186,7 +1186,7 @@ h1,h4 {
     top: 1528px;
     font-size: 18px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 .rubik_typeface1{
@@ -1203,7 +1203,7 @@ h1,h4 {
     height: 0px;
     left: 55px;
     top: 1678px;
-    border: 1px solid #33393E;
+    border: 1px solid #333333;
 }
 
 .rubik_typeface2{
@@ -1280,7 +1280,7 @@ h1,h4 {
     height: 0px;
     left: 345px;
     top: 1678px;
-    border: 1px solid #33393E;
+    border: 1px solid #333333;
 }
 
 #ss1{
@@ -1405,7 +1405,7 @@ h1,h4 {
     height: 0px;
     left: 800px;
     top: 1678px;
-    border: 1px solid #33393E;
+    border: 1px solid #333333;
 }
 
 .rubik_line_height2{
@@ -1462,7 +1462,7 @@ footer{
     position: relative;
     top: 2160px;
     text-align: center;
-    color: #6D6E71;
+    color: #4D4E52;
     font-weight: bold;
     font-family: "Vollkorn", sans-serif;
 }
@@ -1496,7 +1496,7 @@ footer{
     top: 170px;
     font-size: 20px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 .photo_infor{
@@ -1507,7 +1507,7 @@ footer{
     top: 240px;
     font-size: 18px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 /*Main Image*/
@@ -1529,7 +1529,7 @@ footer{
     top: 555px;
     font-size: 20px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 .photo_line_1{
@@ -1549,7 +1549,7 @@ footer{
     top: 660px;
     font-size: 18px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 .main_img{
@@ -1571,7 +1571,7 @@ footer{
     top: 1170px;
     font-size: 18px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 .f_img_text{
@@ -1582,7 +1582,7 @@ footer{
     top: 1200px;
     font-size: 18px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 .s_img-heading{
@@ -1593,7 +1593,7 @@ footer{
     top: 1250px;
     font-size: 18px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 .s_img_text{
@@ -1604,7 +1604,7 @@ footer{
     top: 1280px;
     font-size: 18px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 .rd_imgs_line {
@@ -1624,7 +1624,7 @@ footer{
     top: 1365px;
     font-size: 20px;
     line-height: 140.62%;
-    color: #33393E;
+    color: #333333;
 }
 
 .fth_imgs_line{
@@ -1742,7 +1742,7 @@ footer{
 
 .text_link_5{
     text-decoration: none;
-    color: #33393E;
+    color: #333333;
     font-size: 22px;
     cursor: pointer;
 }
@@ -1772,7 +1772,7 @@ footer{
     position: absolute;
     bottom: -900px;
     font-size: 22px;
-    color: #6D6E71;
+    color: #4D4E52;
     left: 44%;
     line-height: 140.62%;;
 }
@@ -1784,7 +1784,7 @@ footer{
     bottom: -930px;
     font-size: 18px;
     line-height: 140.62%;
-    color: #6D6E71;
+    color: #4D4E52;
     left: 50%;
     right: 50%;
 }
