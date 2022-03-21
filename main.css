@@ -384,13 +384,13 @@ h1,h4 {
 .color_pallete_topline {
     width: 1340px;
     height: 0px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 .color_pallete_btmline {
     width: 1340px;
     height: 0px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 .box {
@@ -414,11 +414,11 @@ h1,h4 {
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    width: 15%;
+    width: 20%;
     padding:10px;
-    height:100px;
+    height:120px;
     margin: 10px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 /*Alt logos*/
