@@ -126,7 +126,7 @@ h1,h4 {
     color: #6D6E71;
     padding: 20px;
     text-transform: uppercase;
-    font-family: 'Sansita', sans-serif;
+    font-family: 'Vollkorn', sans-serif;
     text-decoration: none;    
     transition: all 0.4s;
 }
@@ -346,7 +346,7 @@ h1,h4 {
     font-size: 20px;
     color: #33393E;
     line-height: 46px;
-    font-family: 'Sansita', sans-serif;;
+    font-family: 'Vollkorn', sans-serif;;
 }
 
 .logo_page_topline {
@@ -378,7 +378,7 @@ h1,h4 {
     font-size: 20px;
     color: #33393E;
     line-height: 46px;
-    font-family: 'Sansita', sans-serif;;
+    font-family: 'Vollkorn', sans-serif;;
 }
 
 .color_pallete_topline {
@@ -431,7 +431,7 @@ h1,h4 {
     font-size: 20px;
     color: #33393E;
     line-height: 46px;
-    font-family: 'Sansita', sans-serif;
+    font-family: 'Vollkorn', sans-serif;
 }
 
 .alt_logo_topline {
@@ -532,7 +532,7 @@ h1,h4 {
     font-size: 20px;
     color: #33393E;
     line-height: 46px;
-    font-family: 'Sansita', sans-serif;
+    font-family: 'Vollkorn', sans-serif;
 }
 
 .wordmark_topline{
@@ -587,7 +587,12 @@ h1,h4 {
 
 
 .logo_footer {
-    margin-top: 40px;
+    margin-top: 20px;
+    text-align: center;
+    color: #6D6E71;
+}
+.type_footer {
+    margin-top: 2150px;
     text-align: center;
     color: #6D6E71;
 }
@@ -644,7 +649,7 @@ h1,h4 {
     font-size: 20px;
     color: #33393E;
     line-height: 46px;
-    font-family: 'Sansita', sans-serif;;
+    font-family: 'Vollkorn', sans-serif;;
 }
 
 .boxes {
@@ -686,7 +691,7 @@ h1,h4 {
     font-size: 20px;
     color: #33393E;
     line-height: 46px;
-    font-family: 'Sansita', sans-serif;;
+    font-family: 'Vollkorn', sans-serif;;
 }
 
 .par2 {
@@ -849,7 +854,7 @@ h1,h4 {
 }
 
 .typeface2 span{
-    font-family: "Sansita", sans-serif;
+    font-family: "Vollkorn", sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 22px;
@@ -865,7 +870,7 @@ h1,h4 {
 }
 
 .typeface3 span{
-    font-family: "Sansita", sans-serif;
+    font-family: "Vollkorn", sans-serif;
     font-weight: bold;
     font-size: 20px;
 }
@@ -879,7 +884,7 @@ h1,h4 {
 }
 
 .typeface4 span{
-    font-family: "Sansita", sans-serif;
+    font-family: "Vollkorn", sans-serif;
     font-weight: 800;
     font-size: 20px;
 }
@@ -893,7 +898,7 @@ h1,h4 {
 }
 
 .typeface5 span{
-    font-family: "Sansita", sans-serif;
+    font-family: "Vollkorn", sans-serif;
     font-weight: 900;
     font-size: 20px;
 }
@@ -922,7 +927,7 @@ h1,h4 {
 }
 
 .text_size span{
-    font-family: "Raleway", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 12px;
@@ -933,7 +938,7 @@ h1,h4 {
     position: absolute;
     left: 428px;
     top: 756px;
-    font-family: "Sansita", sans-serif;
+    font-family: "Vollkorn", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 48px;
@@ -950,7 +955,7 @@ h1,h4 {
     position: absolute;
     left: 428px;
     top: 824px;
-    font-family: "Sansita", sans-serif;
+    font-family: "Vollkorn", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
@@ -967,7 +972,7 @@ h1,h4 {
     position: absolute;
     left: 428px;
     top: 895px;
-    font-family: "Sansita", sans-serif;
+    font-family: "Vollkorn", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 32px;
@@ -984,7 +989,7 @@ h1,h4 {
     position: absolute;
     left: 428px;
     top: 962px;
-    font-family: "Sansita", sans-serif;
+    font-family: "Vollkorn", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
@@ -1001,7 +1006,7 @@ h1,h4 {
     position: absolute;
     left: 428px;
     top: 1027px;
-    font-family: "Sansita", sans-serif;
+    font-family: "Vollkorn", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 20px;
@@ -1018,7 +1023,7 @@ h1,h4 {
     position: absolute;
     left: 428px;
     top: 1089px;
-    font-family: "Sansita", sans-serif;
+    font-family: "Vollkorn", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 14px;
@@ -1044,7 +1049,7 @@ h1,h4 {
     position: absolute;
     left: 800px;
     top: 769px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
@@ -1055,7 +1060,7 @@ h1,h4 {
     position: absolute;
     left: 800px;
     top: 901px;
-    font-family: "Sansita", sans-serif;
+    font-family: "Vollkorn", sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 24px;
@@ -1066,7 +1071,7 @@ h1,h4 {
     position: absolute;
     left: 800px;
     top: 952px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -1208,7 +1213,7 @@ h1,h4 {
 }
 
 .rubik_typeface2 span{
-    font-family: "Raleway", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 22px;
@@ -1222,7 +1227,7 @@ h1,h4 {
 }
 
 .rubik_typeface3 span{
-    font-family: "Raleway", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-weight: 500;
     font-size: 20px;
 }
@@ -1234,7 +1239,7 @@ h1,h4 {
 }
 
 .rubik_typeface4 span{
-    font-family: "Raleway", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-weight: bold;
     font-size: 20px;
 }
@@ -1246,7 +1251,7 @@ h1,h4 {
 }
 
 .rubik_typeface5 span{
-    font-family: "Raleway", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-weight: 800;
     font-size: 20px;
 }
@@ -1258,7 +1263,7 @@ h1,h4 {
 }
 
 .rubik_typeface6 span{
-    font-family: "Raleway", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-weight: 900;
     font-size: 20px;
 }
@@ -1285,7 +1290,7 @@ h1,h4 {
 }
 
 .rubik_text_size span{
-    font-family: "Raleway", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 12px;
@@ -1296,7 +1301,7 @@ h1,h4 {
     position: absolute;
     left: 428px;
     top: 1678px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 48px;
@@ -1313,7 +1318,7 @@ h1,h4 {
     position: absolute;
     left: 428px;
     top: 1746px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
@@ -1330,7 +1335,7 @@ h1,h4 {
     position: absolute;
     left: 428px;
     top: 1817px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 32px;
@@ -1347,7 +1352,7 @@ h1,h4 {
     position: absolute;
     left: 428px;
     top: 1884px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
@@ -1364,7 +1369,7 @@ h1,h4 {
     position: absolute;
     left: 428px;
     top: 1949px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 20px;
@@ -1381,7 +1386,7 @@ h1,h4 {
     position: absolute;
     left: 428px;
     top: 2011px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 14px;
@@ -1407,7 +1412,7 @@ h1,h4 {
     position: absolute;
     left: 800px;
     top: 1691px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
@@ -1418,7 +1423,7 @@ h1,h4 {
     position: absolute;
     left: 800px;
     top: 1823px;
-    font-family: "Sansita", sans-serif;
+    font-family: "Vollkorn", sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 24px;
@@ -1429,7 +1434,7 @@ h1,h4 {
     position: absolute;
     left: 800px;
     top: 1868px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -1440,7 +1445,7 @@ h1,h4 {
     position: absolute;
     right: 30px;
     top: 2214px;
-    font-family: "Sansita", sans-serif;
+    font-family: "Vollkorn", sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 22px;
@@ -1459,7 +1464,7 @@ footer{
     text-align: center;
     color: #6D6E71;
     font-weight: bold;
-    font-family: "Sansita", sans-serif;
+    font-family: "Vollkorn", sans-serif;
 }
 
 #footer_line{
@@ -1593,7 +1598,7 @@ footer{
 
 .s_img_text{
     position: absolute;;
-    width: 496px;
+    width: 800px;
     height: 30px;
     left: 30px;
     top: 1280px;
@@ -1646,6 +1651,7 @@ footer{
     width: 178px;
     height: 178px;
     left: 650px;
+    border-radius: 50%;
     top: 1460px;
 }
 
@@ -1680,6 +1686,45 @@ footer{
     height: 178px;
     left: 950px;
     top: 1700px;
+}
+.first_button {
+    position: absolute;
+    width: 178px;
+    left: 350px;
+    top: 1950px;
+}
+.first_button button {
+    padding: 20px 45px 20px 45px;
+    border-radius: 15px;
+    border: 0px;
+    background-color: #EE2B3A;
+    font-family: 'Vollkorn', serif;
+}
+.second_button {
+    position: absolute;
+    width: 178px;
+    left: 650px;
+    top: 1950px;
+}
+.second_button button {
+    padding: 20px 55px 20px 55px;
+    border-radius: 15px;
+    border: 0px;
+    background-color: #EE2B3A;
+    font-family: 'Vollkorn', serif;
+}
+.third_button { 
+    position: absolute;
+    width: 178px;
+    left: 950px;
+    top: 1950px;
+}
+.third_button button {
+    padding: 20px 45px 20px 45px;
+    border-radius: 15px;
+    border: 0px;
+    background-color: #EE2B3A;
+    font-family: 'Vollkorn', serif;
 }
 
 /*Back to home page*/
@@ -1725,7 +1770,7 @@ footer{
 
 .brand_name_5{
     position: absolute;
-    bottom: -1440px;
+    bottom: -900px;
     font-size: 22px;
     color: #6D6E71;
     left: 44%;
@@ -1736,7 +1781,7 @@ footer{
     position: absolute;
     width: 56px;
     height: 25px;
-    bottom: -1480px;
+    bottom: -930px;
     font-size: 18px;
     line-height: 140.62%;
     color: #6D6E71;
