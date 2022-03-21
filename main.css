@@ -21,7 +21,7 @@ a{
 
 /*Navigation*/
 .Logo {
-    width: 120px;
+    /* width: 120px; */
     height: 120px;
     padding: 25px;
 }
@@ -30,12 +30,6 @@ h1,h4 {
     font-family: 'Vollkorn', serif;
 }
 
-.name {
-    font-size: 20px;
-    margin-top: -70px;
-    margin-left: 100px;
-    color: #6C9083;
-}
 
 .navigation_btn {
     width: 70px;
@@ -637,7 +631,7 @@ h1,h4 {
     font-size: 20px;
     margin-top: -70px;
     margin-left: 100px;
-    color: #6C9083;
+    color: #6D6E71;
 }
 
 .brand_color{
