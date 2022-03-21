@@ -587,7 +587,12 @@ h1,h4 {
 
 
 .logo_footer {
-    margin-top: 40px;
+    margin-top: 20px;
+    text-align: center;
+    color: #6D6E71;
+}
+.type_footer {
+    margin-top: 2150px;
     text-align: center;
     color: #6D6E71;
 }
@@ -1765,7 +1770,7 @@ footer{
 
 .brand_name_5{
     position: absolute;
-    bottom: -1440px;
+    bottom: -900px;
     font-size: 22px;
     color: #6D6E71;
     left: 44%;
@@ -1776,7 +1781,7 @@ footer{
     position: absolute;
     width: 56px;
     height: 25px;
-    bottom: -1480px;
+    bottom: -930px;
     font-size: 18px;
     line-height: 140.62%;
     color: #6D6E71;
